@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * _strlen - Returns the lenght of a string.
  * @s: Type char pointer
